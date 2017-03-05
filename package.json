@@ -1,6 +1,6 @@
 {
   "name": "banner-content-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Banner content loader for webpack",
   "keywords": [],
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (https://christophe.hurpeau.com)",
