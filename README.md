@@ -1,5 +1,7 @@
 # banner-content-loader [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/banner-content-loader.svg)](https://greenkeeper.io/)
+
 Banner content loader for webpack
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
